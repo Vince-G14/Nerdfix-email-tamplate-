@@ -1,0 +1,42 @@
+.container { 
+    font-family: 'Manrope', sans-serif;
+    background-color: #F6F7F9;
+    justify-content: center;
+    display: flex;
+}
+.container form { 
+    justify-content: center;
+    display: flex;
+    width: 60vw;
+    flex-wrap: wrap;
+}
+.container input {
+    flex: 100%;
+}
+
+input {
+
+    border-color: #e8e8e800;
+    border-radius: 5px;
+    height: 35px;
+    background-color: #FFFFFF;
+    outline: none;
+    box-shadow: 0 0 0 0.05rem rgb(8 60 130 / 6%), 0 0 1.25rem rgb(30 34 40 / 4%);
+} 
+
+.label 
+
+textarea { 
+
+    border: none; 
+    border-color: #e8e8e800;
+    background-color: #FFFFFF;
+    outline: none;
+    box-shadow: 0 0 0 0.05rem rgb(8 60 130 / 6%), 0 0 1.25rem rgb(30 34 40 / 4%);
+}
+
+.img { 
+
+    width: 150px;
+    height: auto;
+}
